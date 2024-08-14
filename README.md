@@ -28,30 +28,35 @@ git add .
 ```
 
 ✳️ **Commit Changes:**
+
 ⦁ *Create a Commit with a Message:*
 ```sh
 git commit -m "Your commit message"
 ```
 
 ✳️ **Push Changes:**
+
 ⦁ *Push to the Remote Repository:*
 ```sh
 git push origin <branch>  # Push changes to the specified branch
 ```
 
 ✳️ **Pull Updates:**
+
 ⦁ *Fetch and Merge Changes from the Remote Repository:*
 ```sh
 git pull origin <branch>  # Pull changes from the specified branch
 ```
 
 ✳️ **Check Status:**
+
 ⦁ *View Current Status of Your Repository:*
 ```sh
 git status
 ```
 
 ✳️ **View Commit History:**
+
 ⦁ *Show Commit History:*
 ```sh
 git log
