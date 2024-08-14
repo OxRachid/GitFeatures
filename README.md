@@ -1,5 +1,4 @@
 ## GitFeatures
-1. Git Features and Commands for Pushing Changes
 
 ## Git Features and Commands for Pushing Changes
 
@@ -17,8 +16,6 @@ git config --global user.email "your_email@example.com"
 
 
 2. **Add Changes:**
-
-- Stage Files for Commit:
 
 ⦁ Stage a specific file
 ```sh
