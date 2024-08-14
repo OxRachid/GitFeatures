@@ -58,6 +58,9 @@ git log
 ```
 
 # **Configure Credential Caching:**
+
+If you're being prompted for your username and password each time you push changes, it means Git is not using credential caching. You can set up Git to cache your credentials or use alternative methods for authentication. Here’s how you can address this:
+
 ⦁ *Cache Credentials Temporarily (default 15 minutes):*
 ```sh
 git config --global credential.helper cache
