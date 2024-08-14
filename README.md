@@ -4,21 +4,27 @@
 ## Git Features and Commands for Pushing Changes
 
 1. **Configure Git:**
-   - Set Your Username :
+
+- Set Your Username :
 ```sh
 git config --global user.name "Your Name"
 ```
-   - Set Your Email:
+
+- Set Your Email:
 ```sh
 git config --global user.email "your_email@example.com"
 ```
 
+
 2. **Add Changes:**
-   - Stage Files for Commit:
+
+- Stage Files for Commit:
+
 ⦁ Stage a specific file
 ```sh
 git add <file>
 ```
+
 ⦁ Stage all changes in the current directory
 ```sh
 git add .
